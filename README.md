@@ -13,11 +13,11 @@
   
   ## Installation
   
-  To use this application, you will need to have Node.js installed on your computer. You can download Node.js from the official website: https://nodejs.org/en/download/.
+  To use this application you will need to have NOde.js installed on youur computer.YOu can download NOde.js from there offical site. after that clone on local machine, navigate the root directory and install npm 
   
   ## Usage
   
-  Once Node.js is installed, follow these steps:
+  run the application using node index.js then it will prompt you to enter inforamtion about the project.
   
   ## License
   
@@ -25,11 +25,11 @@
   
   ## Contributing
   
-  2.	Navigate to the root directory of the project in your terminal.
+  fork this repo and create the branch,make commits and oppush changes.submit pull request  after that
   
   ## Tests
   
-  3.	Install the required dependencies by running the following command:
+  npm test
   
   ## Questions
   
